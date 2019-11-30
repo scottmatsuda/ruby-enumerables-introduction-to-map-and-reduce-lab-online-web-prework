@@ -69,4 +69,8 @@ def reduce_to_any_true(source_array)
     index += 1
   end
   return false
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> af201eceb62268f56e5c08c54b1c05a61c07e95e
